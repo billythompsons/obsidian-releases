@@ -59715,5 +59715,12 @@
     "author": "tripstoph",
     "description": "Pace a writing session against a gentle words-per-hour ghost, with thinking and writing intervals. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tripstoph/obsidian-focus-flow"
+  },
+  {
+    "id": "instinct-ai",
+    "name": "Instinct AI",
+    "author": "Instinct",
+    "description": "Ask questions about your vault, summarize notes, and transcribe voice notes with Instinct AI (Qwen3 + Whisper).",
+    "repo": "billythompsons/instinct-ai-obsidian"
   }
 ]
